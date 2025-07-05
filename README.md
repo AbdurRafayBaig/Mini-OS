@@ -7,7 +7,7 @@ This project is a C++-based Operating System Simulation System, developed inside
 **Graphical Desktop Interface** <br>
 A fully interactive GUI shell that simulates a desktop, allowing the user to access and manage multiple in-built apps from a central location.
 
-**⚙Kernel and User Mode Separation** <br>
+**Kernel and User Mode Separation** <br>
 The system emulates the structural flow between kernel-level operations (such as control and coordination) and user-level utilities, giving clear separation of roles — just like in real OS designs.
 
 **Startup Resource Allocation** <br>
